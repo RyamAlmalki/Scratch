@@ -6,6 +6,7 @@ void main() {
   runApp(MyApp());
 }
 
+// hi
 class MyApp extends StatelessWidget {
   final Color accentColor = HexColor("#2702F5");
   final Color primaryColor = HexColor("#5A0EF5");
